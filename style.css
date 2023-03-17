@@ -1,0 +1,181 @@
+.places{
+    display: flex;
+    
+}
+@media only screen and (max-width: 600px){
+    pic{
+        display: flex;
+    }
+}
+.pic{
+    display: flex;
+}
+.bedroom{
+    display: flex;
+
+}
+.pic2{
+    display: flex;
+    text-align: center;
+}
+.food{
+    display:flex;
+
+}
+.food2{
+    display: flex;
+}
+
+@media only screen and (max-width: 768px){
+    .firstpage{
+        text-align: center;
+        background-image: url(bat.jpeg);
+        background-size: cover;
+        
+    }
+}
+    
+
+.firstpage{
+    text-align: center;
+    background-image: url(bat.jpeg);
+    background-size: cover;
+    
+}
+@media only screen and (max-width: 600px){
+    .firstpage ul{
+        display: inline-flex;
+        
+    
+    }
+}
+
+.firstpage ul{
+    display: inline-flex;
+    
+
+}
+.firstpage ul a{
+    width: 130px;
+    margin: 16px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.log{
+    margin-top: 6%;
+     padding: 10px 12px;
+    border-radius: 10px; 
+   /* background-color:blue;   */
+     color:blue; 
+     border-color: #222224; 
+    border-radius: 12%;
+}.sign{
+    margin-top: 6%;
+     padding: 10px 12px;
+    border-radius: 10px; 
+   background-color:blue;  
+     color:white ; 
+     border-color: #222224; 
+    border-radius: 12%;
+}
+.seemore{
+    margin-top: 6%;
+     padding: 10px 12px;
+    border-radius: 10px; 
+   background-color:blue;  
+     color:white ; 
+     border-color: #222224; 
+    border-radius: 12%;
+}
+.one{
+    display: flex;
+}
+.hotel{
+    text-align: center;
+}
+.seemore{
+    padding-left: 2% 3%;
+    /* text-align: center; */
+    margin-left: 45%;
+}
+.facilities{
+    text-align: center;
+}
+.photo{
+    margin-left: 25%;
+}
+.room{
+    text-align: center;
+}
+.bed1{
+    display: flex;
+}
+.menu{
+    text-align: center;
+}
+.bedroom{
+    display: flex;
+    gap: 13%;
+}
+.bedroom2{
+    display: flex;
+    gap: 13%;
+}
+.clinents{
+    text-align: center;
+}
+.ux{
+    margin-left: 12%;
+    /* padding-left: 20%; */
+    display: flex;
+}
+.say{
+    display: flex;
+}
+.choose{
+    text-align: center;
+}
+.sub{
+    display: flex;
+}
+.news{
+    text-align: center;
+    background-color: rgb(57, 57, 238);
+     border-radius: 150px 150px 0px 0px;
+}
+.yam{
+    display: flex;
+    gap: 14%;
+}
+.food{
+    display: flex;
+}
+/* .mak1{
+    
+    font-style:italic;
+    color: blue;
+    display: flex;
+} */
+ /* .firstpage{
+    text-align: center;
+} */
+/* .firstpage ul{
+    display: inline-flex;
+    list-style: none;
+    color: darkgreen;
+    font-style: italic;
+    color: aqua;
+} */
+/* .firstpage ul li{
+    width: 130px;
+    margin: 16px;
+    padding: 15px;
+    box-sizing: border-box;
+
+} */
+/* .firstpage ul li a{
+    text-decoration: none;
+    color:white;
+}  */
+
+    
