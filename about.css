@@ -1,0 +1,14 @@
+.menu{
+    display: grid;
+     grid-template-columns: repeat(7,1fr);
+}
+.menu a{
+    text-decoration: none;
+}
+
+.main {
+    text-decoration: none;
+}
+.about{
+    text-align: center;
+}

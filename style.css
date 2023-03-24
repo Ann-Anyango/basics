@@ -147,35 +147,27 @@
     display: flex;
     gap: 14%;
 }
+
 .food{
     display: flex;
 }
-/* .mak1{
+.intro2{
+    text-decoration: none;
     
-    font-style:italic;
-    color: blue;
-    display: flex;
-} */
- /* .firstpage{
-    text-align: center;
-} */
-/* .firstpage ul{
+}
+.intro2 ul{
     display: inline-flex;
-    list-style: none;
-    color: darkgreen;
-    font-style: italic;
-    color: aqua;
-} */
-/* .firstpage ul li{
+    
+
+}
+.intro2 ul a{
     width: 130px;
-    margin: 16px;
+    margin: 14px;
     padding: 15px;
     box-sizing: border-box;
+}
 
-} */
-/* .firstpage ul li a{
-    text-decoration: none;
-    color:white;
-}  */
 
-    
+.narv{
+    display: grid;
+}

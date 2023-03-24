@@ -1,0 +1,14 @@
+.nar{
+    display: grid;
+     grid-template-columns: repeat(7,1fr);
+}
+.nar a{
+    text-decoration: none;
+
+}
+.que{
+    display: flex;
+}
+.grey{
+    text-align: center;
+}
