@@ -1,3 +1,4 @@
+/* 
 .nar{
     display: grid;
      grid-template-columns: repeat(7,1fr);
@@ -12,3 +13,26 @@
 .grey{
     text-align: center;
 }
+.in{
+    border: 10px;
+   background-color:blue ; 
+}
+.timo{
+    display: flex;
+    gap: 31%;
+}
+.yam{
+    display: flex;
+    gap: 13%;
+    
+}
+.uan{ 
+    margin-top:6%;
+    padding: 12px;
+
+}
+.ytr{
+    padding: 12px;
+    background-color: blue;
+
+} */

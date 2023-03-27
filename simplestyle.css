@@ -1,3 +1,13 @@
+@media only screen and (max-width: 600px) {
+    .home{
+        background-color: aquamarine;
+    }
+
+}
+    
+.home{
+    background-color: aquamarine;
+}
 .narv{
     display: grid;
      grid-template-columns: repeat(7,1fr);
@@ -19,12 +29,23 @@
     
 }
 .que{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
     
 }
 .see{
+    width: 180%; 
+    height: 120%;
+
+}
+
+.team{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+.team1 img{
     width: 120px;
-    height: 120%  45%;
 
 }
 

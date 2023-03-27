@@ -1,3 +1,9 @@
+@media only screen and (max-width: 600px) {
+    .prg{
+        background-color: azure;
+    }
+}
+
 .menu{
     display: grid;
      grid-template-columns: repeat(7,1fr);
@@ -9,6 +15,49 @@
 .main {
     text-decoration: none;
 }
+
 .about{
     text-align: center;
+}
+.tre{
+    display: flex;
+    gap: 5%;
+}
+.vission{
+    display: flex;
+    gap: 5%;
+}
+.appre{
+    display: flex;
+    gap: 5%;
+}
+.in{
+    border-radius: 10px;
+    background-color: blue;
+    padding: 5px;
+
+}
+.up{
+    border-radius: 5px;
+    padding: 5px;
+}
+.rev{
+    border-radius: 5%;
+    background-color: blue;
+    border-radius: 5px;
+}
+.more{
+    padding: 2px 5px;
+    background-color: blue;
+    border-radius: 6px;
+}
+.see{
+    padding: 2px 5px;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+.amet{
+    display:flex;
+    gap: 12%;
 }
