@@ -1,0 +1,101 @@
+.list{
+    display: grid;
+     grid-template-columns: repeat(7,1fr);
+}
+.log{
+    border-radius: 20px;
+    background-color: #4c6ef5 ;
+     color: white; 
+     margin-bottom: 3%;
+
+}
+.sing{
+    border-radius: 20px;
+    background-color: #4c6ef5 ;
+     color: white; 
+     margin-bottom: 3%;
+
+}
+.lista{
+    text-decoration: none;
+}
+.titl{
+    text-align: center;
+}
+.titl2{
+    text-align: center;
+}
+.list{
+    display: flex;
+    gap: 5%;
+}
+#mse input{
+    padding-right: 7%;
+    padding-bottom: 10%;
+    border-style: none;
+    background-color: #f1f3f5;
+    border-bottom-right-radius: 30%;
+    /* background-color: black; */
+}
+#list-One{
+    padding-left: 15px;
+    padding-top: 18px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 4%;
+    border-style: none;
+    background-color: #f1f3f5;
+    /* background-color: black; */
+
+}
+.sun{
+    border-radius: 12px;
+    background-color: #4c6ef5 ;
+     color: white; 
+     margin-bottom: 3%;
+}
+
+.end{
+    display: flex;
+    gap: 13%;
+    background-color: aliceblue;
+}
+@media only screen and (max-width: 600px) {
+    .list{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    } 
+    .titl{
+        text-align: center;
+       
+        display: flex;
+        gap: 13%;
+        background-color: aliceblue;
+    }
+}
+    @media only screen and (max-width: 600px) {
+    .log{
+        border-radius: 10px;
+        background-color: #4c6ef5 ;
+         color: white; 
+         margin-bottom: 2px;
+    
+    }
+}
+@media screen and (min-width: 480px) {
+    .log{
+        border-radius: 5px;
+        background-color: #4c6ef5 ;
+         color: white; 
+         margin-bottom: 2%;
+    
+    }
+    .sing{
+        border-radius: 5px;
+        background-color: #4c6ef5 ;
+         color: white; 
+         margin-bottom: 2%;
+    
+    }
+}
